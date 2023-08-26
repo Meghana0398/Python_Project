@@ -1,0 +1,21 @@
+boat_id,boat_model,boat_size,occupancy,price,status
+1,1A,3ft,2,$40 ,Available
+2,1B,5ft,3,$50 ,Available
+3,1C,7ft,4,$80 ,Available
+4,2A,8ft,5,$90 ,Available
+5,2B,12ft,7,$115 ,Available
+6,2C,15ft,9,$130 ,Available
+7,3A,9ft,6,$100 ,Available
+8,3B,12ft,7,$120 ,Available
+9,3C,15ft,9,$145 ,Available
+10,4A,5ft,3,$80 ,Available
+11,4B,8ft,5,$100 ,Available
+12,4C,9ft,6,$120 ,Available
+13,5A,6ft,4,$95 ,Available
+14,5B,10ft,6,$150 ,Available
+15,5C,15ft,9,$160 ,Available
+16,6A,14ft,12,$220 ,Available
+17,6B,16ft,14,$260 ,Available
+18,6C,20ft,16,$300 ,Available
+19,7D,25ft,20,$350 ,Available
+20,7C,30ft,25,$400 ,Available
